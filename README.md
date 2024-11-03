@@ -1,1 +1,0 @@
-# Jenkins-Argo-Sonar
